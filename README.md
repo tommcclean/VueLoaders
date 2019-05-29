@@ -1,11 +1,11 @@
 # VueLoaders
-VueLoaders is a library of Vue components which help you to make loading times provide a bettr user experience.
+VueLoaders is a library of Vue components which help you to make loading times provide a better user experience.
 
-$ npm install @thomaswilliammcclean/vuepanels --save
+$ npm install @thomaswilliammcclean/vueloaders --save
 
 ```javascript
 <script>
-  import "@thomaswilliammcclean/vuepanels";
+  import "@thomaswilliammcclean/vueloaders";
 </script>
 ```
 
